@@ -5,3 +5,5 @@
 - 코로나 전후 배달문화의 변화를 세대당 인구수를 중심으로 분류하여 비교했습니다.
 - 유저 평가(public score) 2등/ 36팀 / 팀이름 : 백수씨심야식당
 - 최종 결과 : 
+
+- 발표 ppt : https://docs.google.com/presentation/d/10Bm987vVZ15t0BM8MyTYw_agjGriq8YV/edit?usp=sharing&ouid=114705836903926236443&rtpof=true&sd=true
